@@ -1,0 +1,99 @@
+[04-Dec-2025 20:24:56 America/Toronto] === NOUVEAU TRAITEMENT  ===
+[04-Dec-2025 20:24:56 America/Toronto] **** DEBUT LOG ****
+[04-Dec-2025 20:24:56 America/Toronto] 1 (333) Image ID -> 10
+[04-Dec-2025 20:24:56 America/Toronto] Résolution du chemin: ./upload/2025/12/04/20251204202431-a47dd65a.jpg
+[04-Dec-2025 20:24:56 America/Toronto] Chemin réel: /home/moberley/piwigo/upload/2025/12/04/20251204202431-a47dd65a.jpg
+[04-Dec-2025 20:24:56 America/Toronto] === GET XMP ===
+[04-Dec-2025 20:24:56 America/Toronto] 2 (378) Fichier local -> /home/moberley/piwigo/upload/2025/12/04/20251204202431-a47dd65a.jpg
+[04-Dec-2025 20:24:56 America/Toronto] 3 - le rep ./_data/tmp existe
+[04-Dec-2025 20:24:56 America/Toronto] STEP2B: file_get_contents SUCCESS, size = 137472 bytes
+[04-Dec-2025 20:24:56 America/Toronto] Temp file size = 137472 octets
+[04-Dec-2025 20:24:56 America/Toronto] SUCCESS: Returning data
+[04-Dec-2025 20:25:15 America/Toronto] === SAVE XMP REQUEST ===
+[04-Dec-2025 20:25:15 America/Toronto] -> 1 visages à  enregistrer
+[04-Dec-2025 20:25:15 America/Toronto] Résolution du chemin: ./upload/2025/12/04/20251204202431-a47dd65a.jpg
+[04-Dec-2025 20:25:15 America/Toronto] Chemin réel: /home/moberley/piwigo/upload/2025/12/04/20251204202431-a47dd65a.jpg
+[04-Dec-2025 20:25:15 America/Toronto] Fichier local: /home/moberley/piwigo/upload/2025/12/04/20251204202431-a47dd65a.jpg
+[04-Dec-2025 20:25:15 America/Toronto] Chemin local résolu: /home/moberley/piwigo/upload/2025/12/04/20251204202431-a47dd65a.jpg
+[04-Dec-2025 20:25:15 America/Toronto] Fichier pour lecture métadonnées: ./_data/tmp/facetag_read_6932347bb89d7.jpg
+[04-Dec-2025 20:25:15 America/Toronto] Backup créé
+[04-Dec-2025 20:25:15 America/Toronto] Permissions du fichier mises à 0666 pour permettre l'écriture
+[04-Dec-2025 20:25:15 America/Toronto] Wrapper Image Path : ./_data/tmp/facetag_read_6932347bb89d7.jpg
+[04-Dec-2025 20:25:15 America/Toronto] Found external ImageMagick command: convert
+[04-Dec-2025 20:25:15 America/Toronto] INFO: Using external ImageMagick command-line tools
+[04-Dec-2025 20:25:15 America/Toronto] External ImageMagick GET profile command: convert './_data/tmp/facetag_read_6932347bb89d7.jpg' xmp:- > '/tmp/imgprof_554ldi4lphr5fbOF1jU' 2>&1
+[04-Dec-2025 20:25:15 America/Toronto] External ImageMagick: Successfully read xmp profile (957 bytes)
+[04-Dec-2025 20:25:15 America/Toronto] Reader - XMP brut trouve, longueur: 957 octets
+[04-Dec-2025 20:25:15 America/Toronto] parseXmp - dc:subject trouves: 0
+[04-Dec-2025 20:25:15 America/Toronto] parseXmp - hierarchicalSubject trouves: 0
+[04-Dec-2025 20:25:15 America/Toronto] parseXmp - TagsList trouves: 0
+[04-Dec-2025 20:25:15 America/Toronto] parseXmp - CatalogSets trouves: 0
+[04-Dec-2025 20:25:15 America/Toronto] parseXmp - Face regions trouvees: 0
+[04-Dec-2025 20:25:15 America/Toronto] === DEBUG MERGER ===
+[04-Dec-2025 20:25:15 America/Toronto] Current metadata keys: exif, iptc, xmp, xmp_raw, orientation
+[04-Dec-2025 20:25:15 America/Toronto] XMP keys: subjects, hierarchical_subjects, tags_list, catalog_sets, faces
+[04-Dec-2025 20:25:15 America/Toronto] XMP subjects: Array
+(
+)
+
+[04-Dec-2025 20:25:15 America/Toronto] XMP hierarchical_subjects: Array
+(
+)
+
+[04-Dec-2025 20:25:15 America/Toronto] XMP tags_list: Array
+(
+)
+
+[04-Dec-2025 20:25:15 America/Toronto] XMP faces: Array
+(
+)
+
+[04-Dec-2025 20:25:15 America/Toronto] IPTC Keys: 
+[04-Dec-2025 20:25:15 America/Toronto] Préexistant - Non-face keywords: 0
+[04-Dec-2025 20:25:15 America/Toronto] Préexistant - Non-face subjects: 0
+[04-Dec-2025 20:25:15 America/Toronto] Préexistant - Non-face hierarchical: 0
+[04-Dec-2025 20:25:15 America/Toronto] Préexistant - Non-face tagslist: 0
+[04-Dec-2025 20:25:15 America/Toronto] Préexistant - Non-face catalogsets: 0
+[04-Dec-2025 20:25:15 America/Toronto] Métadonnées fusionnées
+[04-Dec-2025 20:25:15 America/Toronto] === WRITER SIMPLE : Début ===
+[04-Dec-2025 20:25:15 America/Toronto] Wrapper Image Path : ./_data/tmp/facetag_write_6932347bb89d5.jpg
+[04-Dec-2025 20:25:15 America/Toronto] Found external ImageMagick command: convert
+[04-Dec-2025 20:25:15 America/Toronto] INFO: Using external ImageMagick command-line tools
+[04-Dec-2025 20:25:16 America/Toronto] Dimensions : 2732x2048
+[04-Dec-2025 20:25:16 America/Toronto] 📁 Template dir: ./plugins/face_tag_editor/template/
+[04-Dec-2025 20:25:16 America/Toronto] 📄 xmp_template.xml exists: YES
+[04-Dec-2025 20:25:16 America/Toronto] ✅ Template principal chargé: 1850 bytes
+[04-Dec-2025 20:25:16 America/Toronto] ✅ Template MPReg chargé
+[04-Dec-2025 20:25:16 America/Toronto] ✅ Template MWG-RS chargé
+[04-Dec-2025 20:25:16 America/Toronto] External ImageMagick: Setting xmp profile
+[04-Dec-2025 20:25:16 America/Toronto] Profile data size: 2495 bytes
+[04-Dec-2025 20:25:16 America/Toronto] Image path: ./_data/tmp/facetag_write_6932347bb89d5.jpg
+[04-Dec-2025 20:25:16 America/Toronto] External ImageMagick command: cat PROFILE | convert IMAGE -profile xmp:- OUTPUT
+[04-Dec-2025 20:25:16 America/Toronto] File sizes - Original: 137472 bytes, Output: 50495 bytes
+[04-Dec-2025 20:25:16 America/Toronto] WARNING: Output file size unusual (ratio: 0.37)
+[04-Dec-2025 20:25:16 America/Toronto] ✓ File successfully replaced at: ./_data/tmp/facetag_write_6932347bb89d5.jpg
+[04-Dec-2025 20:25:16 America/Toronto] ✓ Final file size: 50495 bytes
+[04-Dec-2025 20:25:16 America/Toronto] ✓ External ImageMagick: Profile set successfully
+[04-Dec-2025 20:25:16 America/Toronto] External ImageMagick GET profile command: convert './_data/tmp/facetag_write_6932347bb89d5.jpg' iptc:- > '/tmp/imgprof_tecau52de0nt9uzzEXW' 2>&1
+[04-Dec-2025 20:25:16 America/Toronto] External ImageMagick: Failed to read iptc profile (return code: 1)
+[04-Dec-2025 20:25:16 America/Toronto] External ImageMagick: Setting iptc profile
+[04-Dec-2025 20:25:16 America/Toronto] Profile data size: 41 bytes
+[04-Dec-2025 20:25:16 America/Toronto] Image path: ./_data/tmp/facetag_write_6932347bb89d5.jpg
+[04-Dec-2025 20:25:16 America/Toronto] External ImageMagick command: cat PROFILE | convert IMAGE -profile iptc:- OUTPUT
+[04-Dec-2025 20:25:17 America/Toronto] File sizes - Original: 50495 bytes, Output: 50596 bytes
+[04-Dec-2025 20:25:17 America/Toronto] ✓ File successfully replaced at: ./_data/tmp/facetag_write_6932347bb89d5.jpg
+[04-Dec-2025 20:25:17 America/Toronto] ✓ Final file size: 50596 bytes
+[04-Dec-2025 20:25:17 America/Toronto] ✓ External ImageMagick: Profile set successfully
+[04-Dec-2025 20:25:17 America/Toronto] IPTC Keywords écrits : 1
+[04-Dec-2025 20:25:17 America/Toronto] === WRITER SIMPLE : Succès ===
+[04-Dec-2025 20:25:17 America/Toronto]  XMP écrit sur fichier temporaire
+[04-Dec-2025 20:25:17 America/Toronto] >> main.inc.php
+[04-Dec-2025 20:25:17 America/Toronto] Tentative copie vers: /home/moberley/piwigo/upload/2025/12/04/20251204202431-a47dd65a.jpg
+[04-Dec-2025 20:25:17 America/Toronto] Fichier existe: OUI
+[04-Dec-2025 20:25:17 America/Toronto] Writable: OUI
+[04-Dec-2025 20:25:17 America/Toronto] Fichier copié vers: /home/moberley/piwigo/upload/2025/12/04/20251204202431-a47dd65a.jpg
+[04-Dec-2025 20:25:17 America/Toronto] Cache vidé et date de modification mise à jour
+[04-Dec-2025 20:25:17 America/Toronto] ✓ Métadonnées Piwigo synchronisées pour image 10
+[04-Dec-2025 20:25:17 America/Toronto]  Métadata synchronisées
+[04-Dec-2025 20:25:19 America/Toronto] Résolution du chemin: ./upload/2025/12/04/20251204202431-a47dd65a.jpg
+[04-Dec-2025 20:25:19 America/Toronto] Chemin réel: /home/moberley/piwigo/upload/2025/12/04/20251204202431-a47dd65a.jpg
