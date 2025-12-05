@@ -1,0 +1,20 @@
+Environment
+Piwigo 16.1.0 Check for upgrade
+Installed on 30 November 2025, 4 days ago
+Operating system: Linux (container)
+PHP: 8.4.14 (Show info) [2025-12-04 20:32:39]
+MySQL: 10.6.23-MariaDB-cll-lve [2025-12-04 20:32:39]
+Graphics Library: External ImageMagick 6.9.13-25
+Cache size 4.03 Mo   calculated 2 days ago Refresh
+
+Activated plugin list 10
+Admin Tools
+Check Files Integrity
+Delete Hit/Rate
+face_tag
+face_tag_editor
+LocalFiles Editor
+Maintenance Web Services
+Media Icon
+Personal Plugin
+Read Metadata
