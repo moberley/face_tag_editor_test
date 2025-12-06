@@ -1,0 +1,77 @@
+[06-Dec-2025 02:03:38 America/Toronto] === NOUVEAU TRAITEMENT  ===
+[06-Dec-2025 02:03:38 America/Toronto] **** DEBUT LOG ****
+[06-Dec-2025 02:03:38 America/Toronto] 1 (333) Image ID -> 13
+[06-Dec-2025 02:03:38 America/Toronto] Résolution du chemin: ./upload/2025/12/06/20251206020152-d24810b2.jpg
+[06-Dec-2025 02:03:38 America/Toronto] Chemin réel: /home/moberley/piwigo/upload/2025/12/06/20251206020152-d24810b2.jpg
+[06-Dec-2025 02:03:38 America/Toronto] === GET XMP ===
+[06-Dec-2025 02:03:38 America/Toronto] 2 (378) Fichier local -> /home/moberley/piwigo/upload/2025/12/06/20251206020152-d24810b2.jpg
+[06-Dec-2025 02:03:38 America/Toronto] 3 - le rep ./_data/tmp existe
+[06-Dec-2025 02:03:38 America/Toronto] STEP2B: file_get_contents SUCCESS, size = 90166 bytes
+[06-Dec-2025 02:03:38 America/Toronto] Temp file size = 90166 octets
+[06-Dec-2025 02:03:38 America/Toronto] SUCCESS: Returning data
+[06-Dec-2025 02:03:49 America/Toronto] === SAVE XMP REQUEST ===
+[06-Dec-2025 02:03:49 America/Toronto] -> 1 visages à  enregistrer
+[06-Dec-2025 02:03:49 America/Toronto] Résolution du chemin: ./upload/2025/12/06/20251206020152-d24810b2.jpg
+[06-Dec-2025 02:03:49 America/Toronto] Chemin réel: /home/moberley/piwigo/upload/2025/12/06/20251206020152-d24810b2.jpg
+[06-Dec-2025 02:03:49 America/Toronto] Fichier local: /home/moberley/piwigo/upload/2025/12/06/20251206020152-d24810b2.jpg
+[06-Dec-2025 02:03:49 America/Toronto] Chemin local résolu: /home/moberley/piwigo/upload/2025/12/06/20251206020152-d24810b2.jpg
+[06-Dec-2025 02:03:49 America/Toronto] Fichier pour lecture métadonnées: ./_data/tmp/facetag_read_6933d5556c78c.jpg
+[06-Dec-2025 02:03:49 America/Toronto] Backup créé
+[06-Dec-2025 02:03:49 America/Toronto] Permissions du fichier mises à 0666 pour permettre l'écriture
+[06-Dec-2025 02:03:49 America/Toronto] Wrapper Image Path : ./_data/tmp/facetag_read_6933d5556c78c.jpg
+[06-Dec-2025 02:03:49 America/Toronto] INFO: Using PHP Imagick extension
+[06-Dec-2025 02:03:49 America/Toronto] Reader - XMP brut trouve, longueur: 2942 octets
+[06-Dec-2025 02:03:49 America/Toronto] parseXmp - dc:subject trouves: 0
+[06-Dec-2025 02:03:49 America/Toronto] parseXmp - hierarchicalSubject trouves: 0
+[06-Dec-2025 02:03:49 America/Toronto] parseXmp - TagsList trouves: 0
+[06-Dec-2025 02:03:49 America/Toronto] parseXmp - CatalogSets trouves: 0
+[06-Dec-2025 02:03:49 America/Toronto] parseXmp - Face regions trouvees: 0
+[06-Dec-2025 02:03:49 America/Toronto] === DEBUG MERGER ===
+[06-Dec-2025 02:03:49 America/Toronto] Current metadata keys: exif, iptc, xmp, xmp_raw, orientation
+[06-Dec-2025 02:03:49 America/Toronto] XMP keys: subjects, hierarchical_subjects, tags_list, catalog_sets, faces
+[06-Dec-2025 02:03:49 America/Toronto] XMP subjects: Array
+(
+)
+
+[06-Dec-2025 02:03:49 America/Toronto] XMP hierarchical_subjects: Array
+(
+)
+
+[06-Dec-2025 02:03:49 America/Toronto] XMP tags_list: Array
+(
+)
+
+[06-Dec-2025 02:03:49 America/Toronto] XMP faces: Array
+(
+)
+
+[06-Dec-2025 02:03:49 America/Toronto] IPTC Keys: 
+[06-Dec-2025 02:03:49 America/Toronto] Préexistant - Non-face keywords: 0
+[06-Dec-2025 02:03:49 America/Toronto] Préexistant - Non-face subjects: 0
+[06-Dec-2025 02:03:49 America/Toronto] Préexistant - Non-face hierarchical: 0
+[06-Dec-2025 02:03:49 America/Toronto] Préexistant - Non-face tagslist: 0
+[06-Dec-2025 02:03:49 America/Toronto] Préexistant - Non-face catalogsets: 0
+[06-Dec-2025 02:03:49 America/Toronto] Métadonnées fusionnées
+[06-Dec-2025 02:03:49 America/Toronto] === WRITER SIMPLE : Début ===
+[06-Dec-2025 02:03:49 America/Toronto] Wrapper Image Path : ./_data/tmp/facetag_write_6933d5556c789.jpg
+[06-Dec-2025 02:03:49 America/Toronto] INFO: Using PHP Imagick extension
+[06-Dec-2025 02:03:49 America/Toronto] Dimensions : 2732x2048
+[06-Dec-2025 02:03:49 America/Toronto] 📁 Template dir: ./plugins/face_tag_editor/template/
+[06-Dec-2025 02:03:49 America/Toronto] 📄 xmp_template.xml exists: YES
+[06-Dec-2025 02:03:49 America/Toronto] ✅ Template principal chargé: 1850 bytes
+[06-Dec-2025 02:03:49 America/Toronto] ✅ Template MPReg chargé
+[06-Dec-2025 02:03:49 America/Toronto] ✅ Template MWG-RS chargé
+[06-Dec-2025 02:03:49 America/Toronto] Error getting profile via PHP Imagick: Can not get image profile
+[06-Dec-2025 02:03:49 America/Toronto] IPTC Keywords écrits : 1
+[06-Dec-2025 02:03:49 America/Toronto] === WRITER SIMPLE : Succès ===
+[06-Dec-2025 02:03:49 America/Toronto]  XMP écrit sur fichier temporaire
+[06-Dec-2025 02:03:49 America/Toronto] >> main.inc.php
+[06-Dec-2025 02:03:49 America/Toronto] Tentative copie vers: /home/moberley/piwigo/upload/2025/12/06/20251206020152-d24810b2.jpg
+[06-Dec-2025 02:03:49 America/Toronto] Fichier existe: OUI
+[06-Dec-2025 02:03:49 America/Toronto] Writable: OUI
+[06-Dec-2025 02:03:49 America/Toronto] Fichier copié vers: /home/moberley/piwigo/upload/2025/12/06/20251206020152-d24810b2.jpg
+[06-Dec-2025 02:03:49 America/Toronto] Cache vidé et date de modification mise à jour
+[06-Dec-2025 02:03:49 America/Toronto] ✓ Métadonnées Piwigo synchronisées pour image 13
+[06-Dec-2025 02:03:49 America/Toronto]  Métadata synchronisées
+[06-Dec-2025 02:03:51 America/Toronto] Résolution du chemin: ./upload/2025/12/06/20251206020152-d24810b2.jpg
+[06-Dec-2025 02:03:51 America/Toronto] Chemin réel: /home/moberley/piwigo/upload/2025/12/06/20251206020152-d24810b2.jpg
